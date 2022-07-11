@@ -40,8 +40,6 @@
 
 ###
 
-<br clear="both">
-
 ![Snake animation](https://github.com/adsonsantiago/adsonsantiago/blob/output/github-contribution-grid-snake.svg)
 
 ###
