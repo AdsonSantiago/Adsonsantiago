@@ -16,7 +16,6 @@
 
 ###
 
-<img align="right" height="150" src="https://im.ezgif.com/tmp/ezgif-1-1a5edc9eb1.gif"  />
 
 ###
 
