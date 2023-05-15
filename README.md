@@ -43,3 +43,9 @@
 
 ![snake gif](https://github.com/adsonsantiago/adsonsantiago/blob/output/github-contribution-grid-snake.gif)
 ###
+  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AdsonSsantiago}/count.svg" /></p> 
+<br>
+</div>
