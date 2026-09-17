@@ -1,75 +1,57 @@
-## Hi 👋, I'm Adson Santiago ! 
+## Hi, I'm Adson Santiago - I turn forms into prompts.
 
-🚀 **Full Stack Developer | Python & Selenium Specialist**  
-🇧🇷 Brazil
+🚀 **Full Stack Dev | Python, Django, React & AI Agents**
+🇧🇷 Mauá, SP - Brazil | ADS Student
 
-- 🔭 Hoje eu trabalho como autônomo.
-- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas.
-- 😄 Pronouns: Ele/Dele
+Atualmente construindo o **SantiFi** - um gerenciador financeiro que está evoluindo de CRUD para agente de IA com Pydantic AI.
 
-## 🧠 What I do
+- 🔭 Trabalhando como autônomo, focado em SaaS e automações
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas + AI Agents / LangGraph
+- 🎯 Foco: Django, FastAPI, React, Pydantic AI
+- 📫 adsonsantiago@hotmail.com
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+### 🔥 Projeto em Destaque
 
-###
+**[SantiFi - Django + React + AI Agent](https://github.com/AdsonSantiago/finance_control_santiago)**
+> Seu controle financeiro com inteligência. De `Nova Conta` para `cria conta Caixa com 500 reais` via prompt.
 
+Stack: Django, React + Vite, Firebase, Tailwind
+
+### 🧠 What I do
+
+- 🤖 **AI Agents & Automation** - Pydantic AI, LangGraph, OpenAI API
+- 🏗️ **Backend:** Python, Django, DRF, FastAPI, Selenium
+- ⚡ **Frontend:** React, Vite, TypeScript, Tailwind, Next.js
+- 🔐 **Arquitetura:** Clean Architecture, Secure APIs, SaaS Scale
+
+### 🛠️ Tech Stack
+
+#### AI & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+
+#### Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
+### 📊 GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=adsonsantiago" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=adsonsantiago" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&username=adsonsantiago" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&card_width=320&langs_count=6&theme=dark&username=adsonsantiago" height="150" />
 </div>
 
-###
-
-### Frontend
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
-###
-
-
-###
-
-
-## 🌐 Where to find me
-
-<div align="left">
-
-[![linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/adsonsantiago/)
-
-###
+### 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adsonsantiago/)
 
 ![snake gif](https://github.com/adsonsantiago/adsonsantiago/blob/output/github-contribution-grid-snake.gif)
-###
-  
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AdsonSsantiago}/count.svg" /></p> 
-<br>
-</div>
