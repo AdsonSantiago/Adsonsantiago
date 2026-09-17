@@ -1,12 +1,12 @@
 ## Hi, I'm Adson Santiago - I turn forms into prompts.
 
 🚀 **Full Stack Dev | Python, Django, React & AI Agents**
-🇧🇷 Mauá, SP - Brazil | ADS Student
+🇧🇷 Mauá, SP - Brazil | ADS
 
 Atualmente construindo o **SantiFi** - um gerenciador financeiro que está evoluindo de CRUD para agente de IA com Pydantic AI.
 
 - 🔭 Trabalhando como autônomo, focado em SaaS e automações
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas + AI Agents / LangGraph
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas + AI Agents / LangGraph
 - 🎯 Foco: Django, FastAPI, React, Pydantic AI
 - 📫 adsonsantiago@hotmail.com
 
